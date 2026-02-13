@@ -1,0 +1,26 @@
+#1
+name="Henry"
+print("Hello, {name}!")
+#2
+age=25
+print({age})
+#3
+first_name="Henry"
+last_name="Lipscomb"
+print("{first_name}")
+print("{last_name}")
+#4
+x=10
+y=5
+print("{x}")
+print("{y}")
+#5
+print("10-5")
+print("10*5")
+print("10/5")
+#6
+temperature="72"
+print("{temperature}")
+#7
+a=8
+b=12
