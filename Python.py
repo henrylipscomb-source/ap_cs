@@ -1,0 +1,12 @@
+#1
+print("Python")
+#2
+points=50
+print(points)
+#3
+print(points+25)
+#4
+m=9
+n=7
+print(m+n)
+print(m%n)
