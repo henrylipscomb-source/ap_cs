@@ -10,3 +10,21 @@ m=9
 n=7
 print(m+n)
 print(m%n)
+#5
+side=6
+print(side*side)
+#6
+first="Grace"
+last="Hopper"
+print(first)
+print(last)
+#7
+a=5
+b=8
+print(a<=b)
+print(b==10)
+#8
+has_fuel=True
+engine_check=False
+print(has_fuel and not engine_check)
+#9
